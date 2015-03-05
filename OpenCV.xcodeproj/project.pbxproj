@@ -71,6 +71,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		762F79361AA88E1500ABC193 /* Blob1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Blob1.jpg; path = Image/Blob1.jpg; sourceTree = "<group>"; };
+		762F79371AA88E1500ABC193 /* Blob2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Blob2.jpg; path = Image/Blob2.jpg; sourceTree = "<group>"; };
+		762F79381AA88E1500ABC193 /* Pedestrian1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pedestrian1.jpg; path = Image/Pedestrian1.jpg; sourceTree = "<group>"; };
+		762F79391AA88E1500ABC193 /* Pedestrian2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pedestrian2.jpg; path = Image/Pedestrian2.jpg; sourceTree = "<group>"; };
+		762F793A1AA88E1500ABC193 /* Pedestrian3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pedestrian3.jpg; path = Image/Pedestrian3.jpg; sourceTree = "<group>"; };
+		762F793B1AA88E1500ABC193 /* Sunflower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Sunflower.png; path = Image/Sunflower.png; sourceTree = "<group>"; };
 		763AB8ED1AA40866001F4C26 /* libopencv_calib3d.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_calib3d.2.4.10.dylib; path = "../../Applications/opencv-2.4.10/lib/libopencv_calib3d.2.4.10.dylib"; sourceTree = "<group>"; };
 		763AB8EE1AA40866001F4C26 /* libopencv_contrib.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_contrib.2.4.10.dylib; path = "../../Applications/opencv-2.4.10/lib/libopencv_contrib.2.4.10.dylib"; sourceTree = "<group>"; };
 		763AB8EF1AA40866001F4C26 /* libopencv_core.2.4.10.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.10.dylib; path = "../../Applications/opencv-2.4.10/lib/libopencv_core.2.4.10.dylib"; sourceTree = "<group>"; };
@@ -750,6 +756,12 @@
 				764089E31A97011600DE0A54 /* Test5.jpg */,
 				764089E41A97011600DE0A54 /* Test6.jpg */,
 				764089E51A97011600DE0A54 /* Test7.jpg */,
+				762F79361AA88E1500ABC193 /* Blob1.jpg */,
+				762F79371AA88E1500ABC193 /* Blob2.jpg */,
+				762F79381AA88E1500ABC193 /* Pedestrian1.jpg */,
+				762F79391AA88E1500ABC193 /* Pedestrian2.jpg */,
+				762F793A1AA88E1500ABC193 /* Pedestrian3.jpg */,
+				762F793B1AA88E1500ABC193 /* Sunflower.png */,
 			);
 			name = Image;
 			sourceTree = "<group>";
